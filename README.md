@@ -36,7 +36,7 @@ jupyter notebook Your_first_neural_network.ipynb
 This will open the iPython Notebook software in your browser.
 
 ### Data
-The data for this project is present within the Bike-Sharing-Dataset folder. 
+The data for this project is present within the `Bike-Sharing-Dataset` folder. 
 
 **Number of Cases:** 
 The dataset contains a total of 17379 cases.
